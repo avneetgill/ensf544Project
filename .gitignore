@@ -1,3 +1,4 @@
 # ignore json data file
 *.json
 *.csv
+*.ipynb_checkpoints
